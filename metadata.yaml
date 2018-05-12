@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/593
     wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34227#Her-Letter--13-His-Answer--amp--Her-Last-Letter
 gutenberg_issued: '2010-11-07'
 gutenberg_type: Text
 identifiers:
